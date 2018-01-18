@@ -20,3 +20,7 @@ Working Dir (or Git Index) / Staging Area / Repository
 
 ##Copyright
 Git.Training
+
+##How to Contribute
+
+Please fork this project on GitHub
