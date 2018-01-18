@@ -14,3 +14,6 @@ General info about Git diff
 
 #Workflow
 Working Dir (or Git Index) / Staging Area / Repository
+
+##Copyright
+Git.Training
